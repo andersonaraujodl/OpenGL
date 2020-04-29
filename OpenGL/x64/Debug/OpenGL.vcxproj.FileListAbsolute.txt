@@ -1,0 +1,2 @@
+C:\Users\Danilo Lapiccirella\Documents\Projetos\OpenGL\OpenGL\x64\Debug\OpenGL.exe
+C:\Users\Danilo Lapiccirella\Documents\Projetos\OpenGL\OpenGL\x64\Debug\OpenGL.pdb
